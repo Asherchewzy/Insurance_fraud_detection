@@ -1,5 +1,5 @@
 # For Real? Auto Insurance Fraud Claim Detection with Machine Learning.
-by Ice Asher Chew | linkedin.com/in/iceasherchew | github.com/iceasherchew
+a project by Asher Chew in 2018
 
 ## Problem Statement
 
